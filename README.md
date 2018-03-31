@@ -1,6 +1,6 @@
 # BlueTest
 蓝牙ble4.0及心电图绘制
-
+![image](https://github.com/BitToNet/BlueTest/demo.gif)
 这个demo包含两部分技术：
 
 1.心电图的自定义view绘制（ECGView.java）
