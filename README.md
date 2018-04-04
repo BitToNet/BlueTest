@@ -9,4 +9,6 @@
 
 注意：改项目只用于学习参考，写在jni里面的情绪分析和数据处理算法已被剪除
 
+放的gif贼卡=====
+
 ![image](https://github.com/BitToNet/BlueTest/blob/master/demo.gif)
